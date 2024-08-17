@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "pdfrag"
+version = "0.1.0"
+description = "chat with pdf files"
+authors = ["alexongwc <ongweicongalex@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+streamlit = "^1.37.1"
+pandas = "^2.0.1"
+numpy = ">=1.22,<2.0"
+langchain = "0.2.14"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

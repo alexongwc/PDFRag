@@ -1,8 +1,8 @@
 [tool.poetry]
 name = "pdfrag"
 version = "0.1.0"
-description = "chat with pdf files"
-authors = ["alexongwc <ongweicongalex@gmail.com>"]
+description = "chat with Traffic offence Bot"
+authors = ["alexongwc <alexongweechong@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]

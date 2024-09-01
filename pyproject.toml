@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "pdfrag"
+name = "trafficbot"
 version = "0.1.0"
 description = "chat with Traffic offence Bot"
 authors = ["alexongwc <alexongweechong@gmail.com>"]

@@ -14,3 +14,6 @@ This  bridges the gap between dense legal text and everyday understanding. It tr
 
 ## Data from Singapore Statutes Online
 https://sso.agc.gov.sg/Act/RTA1961
+
+
+![display](https://github.com/user-attachments/assets/d9a0660b-48d3-43c2-b136-026f15d44884)
